@@ -37,5 +37,18 @@ La herramienta creará una carpeta llamada Contratos_Generados. Además, en tu E
 ⚠️ Archivo ya existe: No se creó porque ya hay uno con ese nombre (para evitar duplicados).
 ❌ Error: Hubo un problema (ej: falta la plantilla).
 
-<img width="744" height="604" alt="Contratos Generados" src="https://github.com/user-attachments/assets/225bcfa1-3e82-4701-b814-317a1e420468" />
+
+<img width="1899" height="615" alt="Imagen Macro Excel " src="https://github.com/user-attachments/assets/0c04bcd8-2d5f-43dc-969c-88a329380749" />
+
+<img width="708" height="142" alt="Carpeta con Archivos" src="https://github.com/user-attachments/assets/ae23ddff-eea0-44a9-bb67-e729cf0318a7" />
+
+<img width="744" height="604" alt="Contratos Generados" src="https://github.com/user-attachments/assets/ca9de94a-5fca-492a-8e6f-3996a5ac8354" />
+
+<img width="687" height="817" alt="Imagen Plantilla Word" src="https://github.com/user-attachments/assets/3eb8579d-9b00-481a-9754-669b1265c87e" />
+
+<img width="557" height="747" alt="Imagen Resultado" src="https://github.com/user-attachments/assets/b3fc0d1c-c81f-4725-a455-773df070a6fa" />
+
+
+
+
 
