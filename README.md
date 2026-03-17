@@ -36,3 +36,6 @@ La herramienta creará una carpeta llamada Contratos_Generados. Además, en tu E
 ✅ Contrato Creado: Todo salió bien.
 ⚠️ Archivo ya existe: No se creó porque ya hay uno con ese nombre (para evitar duplicados).
 ❌ Error: Hubo un problema (ej: falta la plantilla).
+
+<img width="744" height="604" alt="Contratos Generados" src="https://github.com/user-attachments/assets/225bcfa1-3e82-4701-b814-317a1e420468" />
+
